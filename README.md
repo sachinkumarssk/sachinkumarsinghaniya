@@ -19,9 +19,6 @@
   <a href="https://sachinkumarssk.github.io/sachinkumarsinghaniya/">
     <img src="https://img.shields.io/badge/Live-Landing%20Page-00C897?style=for-the-badge" alt="Landing Page" />
   </a>
-  <a href="mailto:sachin@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
 </p>
 
 ---
@@ -74,7 +71,6 @@ I build modern, responsive, and impactful digital experiences. My focus is on cl
 ## Connect
 
 - GitHub: @sachinkumarssk
-- Email: sachin@example.com
 - Portfolio: https://sachinkumarssk.github.io/sachinkumarsinghaniya/
 
 <p align="center">
